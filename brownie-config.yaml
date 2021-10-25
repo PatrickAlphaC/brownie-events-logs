@@ -1,0 +1,8 @@
+networks:
+    rinkeby:
+        publish_source: True
+    kovan:
+        publish_source: True
+# dotenv: .env
+wallets:
+    from_key: ${PRIVATE_KEY}
