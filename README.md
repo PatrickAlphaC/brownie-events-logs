@@ -61,3 +61,9 @@ brownie run scripts/deploy_and_store.js --network kovan
 ```
 
 And it will deploy and auto-verify for you. 
+
+## Testing
+
+```sh
+brownie test
+```
